@@ -1,1 +1,1 @@
-EDA on titanic dataset from kaggle
+EDA on titanic dataset from kaggle.
